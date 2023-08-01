@@ -321,5 +321,9 @@
     .navbar-nav {
         padding-right: 0;
     }
+
+    .logo-contacto img {
+        width: 300px;
+    }
 }
 
