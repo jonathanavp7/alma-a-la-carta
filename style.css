@@ -121,6 +121,18 @@
     background: #fff;
     border-color: var(--purle);
 }
+.btn-submit {
+    background-color: var(--purle);
+    color: #fff;
+    padding: 0.55rem 0;
+    width: 140px;
+    border: none;
+    transition: all ease 0.5s;
+}
+.btn-submit:hover{
+    background: #222;
+    color: #fff;
+}
 .btn-green{
     background-color: var(--green);
     color: #fff;
