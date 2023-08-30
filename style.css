@@ -199,11 +199,13 @@
 
 /* section 6 */
 #sec-6{
-    background: linear-gradient(rgba(22, 219, 147, 0.9), rgba(22, 219, 147, 0.9)), url(images/section-6-bg.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(94, 55, 201, 0.9), rgba(78, 162, 230, 0.9)), url(images/section-6-bg.jpg) center/cover no-repeat;
 }
-#sec-6 .circle-icon{
-    width: 95px;
-    height: 95px;
+
+.icon-progress img {
+    width: 85px;
+    filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.3));
+    transition: ease all 0.5s;
 }
 
 /* section 7 */
@@ -235,6 +237,10 @@
 }
 .form-control {
     box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.fa-chevron-left, .fa-chevron-right {
+    font-size: 2rem;
 }
 
 /* ---- Footer ---- */
