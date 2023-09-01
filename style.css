@@ -62,8 +62,7 @@
     color: #0df053;
     background-color: #fff;
 }
-
-.img-fluid {
+.img-fluid-1 {
     box-shadow: 15px 15px #d56a16;
     border-radius: 10px;
 }
@@ -327,6 +326,9 @@
     .logo-contacto {
         display: flex;
         justify-content: center;
+    }
+    .img-fluid-1, .img-fluid-2 {
+        box-shadow: none;
     }
 }
 
