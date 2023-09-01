@@ -67,6 +67,10 @@
     box-shadow: 15px 15px #d56a16;
     border-radius: 10px;
 }
+.img-fluid-2 {
+    box-shadow: 15px 15px #a5b4c9;
+    border-radius: 10px;
+}
 .h1-shadow {
     text-shadow: 1px 1px 3px #222;
 }
