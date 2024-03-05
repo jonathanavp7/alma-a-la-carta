@@ -1,4 +1,4 @@
-# Coaching Life Website build with HTML, CSS and JavaScript
+# Coaching Life Website build with HTML, CSS and JS
 
 This repository contains a simple website for a Coaching Life Company.
 
