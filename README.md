@@ -9,7 +9,7 @@ The repository is currently deployed and accessible [here](https://jonathanavp7.
 ## Technologies
 
 - HTML5
-- CSS3
+- Bootstrap 5
 - JavaScript
 - React Js
 - NPM
